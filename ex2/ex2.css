@@ -1,0 +1,13 @@
+.item-container {
+    margin: auto 300px;
+}
+
+.item {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.5);
+}
+.item:hover {
+    transition: 500ms ease-in-out;
+    background-color: gray;
+}

@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Be Vietnam Pro", sans-serif;
+}
+
+.img {
+    position: relative;
+    opacity: 1;
+}
+
+.text {
+    position: absolute;
+    color: white;
+    bottom: 20px;
+    margin-left: 30px;
+    line-height: 30px;
+    text-wrap: wrap;
+    width: 300px;
+}

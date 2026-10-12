@@ -1,0 +1,17 @@
+.button-container {
+    margin: auto 250px;
+}
+
+.clickme {
+    font-size: 200%;
+    padding: 100px 300px;
+    border: none;
+    border-radius: 10px;
+}
+
+.clickme:active {
+    background-color: red;
+    border: none;
+    color: white;
+    
+}

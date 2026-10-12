@@ -1,0 +1,8 @@
+.button {
+    border-top: 2px red solid;
+    border-right: 2px rgb(119, 31, 233) dotted;
+    border-bottom: 2px green double;
+    border-left: 6px purple groove;
+    scale: 2;
+    margin: 10px 10px 0px 100px;
+}

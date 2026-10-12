@@ -1,0 +1,46 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-container {
+    width: 400px;
+    height: 500px;
+    
+}
+
+.img {
+    position: relative;
+    transition: 500ms ease;
+
+}
+
+.img:hover {
+    opacity: 0.9;
+}
+
+.views {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    display: flex;
+    justify-items: center;
+    position: absolute;
+    width: 500px;
+    bottom: 4px;
+    padding: 1px;
+}
+
+span {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.text {
+    text-align: left;
+    width: 490px;
+    margin-left: 10px;
+}
